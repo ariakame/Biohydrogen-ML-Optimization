@@ -1,6 +1,6 @@
 # Optimizing Fermentative Biohydrogen Yield: A Machine Learning Approach
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ariakame/Biohydrogen-ML-Optimization/blob/main/Machine_Learning_for_Biohydrogen_Yield_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cDveA7pLBJ3PrY8Xxy48hjZsC8yujTFh?authuser=1)
 
 ## Project Overview
 This project presents a data-driven framework to predict and optimize biohydrogen production via dark fermentation. Using a novel dataset curated from 40+ peer-reviewed studies, we developed a machine learning model capable of mapping complex, non-linear interactions between substrate properties and environmental factors.
@@ -12,7 +12,7 @@ This project presents a data-driven framework to predict and optimize biohydroge
 
 ## Technical Stack
 * **Language:** Python
-* **Environment:** Google Colab / Jupyter
+* **Environment:** Google Colab
 * **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib
 
 ## Authors
@@ -21,4 +21,5 @@ This project presents a data-driven framework to predict and optimize biohydroge
 
 ## How to use
 1. Click the **"Open in Colab"** badge above.
-2. Run the cells to see the data preprocessing, model training, and results visualization.
+2. Ensure you have access to the shared Google Drive link.
+3. Run the cells to see the data preprocessing, model training, and results visualization.
