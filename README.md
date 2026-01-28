@@ -16,10 +16,11 @@ This project presents a data-driven framework to predict and optimize biohydroge
 * **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib
 
 ## Authors
-* **Archith Shankar:** Software development, ML modeling, and dataset construction.
-* **Arya K (ariakame):** Biological literature review, data curation, and validation.
+* **Archith Shankar(ariakame):** Software development, ML modeling, and dataset construction.
+* **Arya K :** Biological literature review, data curation, and validation.
 
 ## How to use
 1. Click the **"Open in Colab"** badge above.
-2. Ensure you have access to the shared Google Drive link.
+2. The data for running the models can be accessed through the .csv file in the repository
 3. Run the cells to see the data preprocessing, model training, and results visualization.
+
